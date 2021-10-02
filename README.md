@@ -1,2 +1,2 @@
 # php-mysql-demo
-PHP backend with MySql Database demo app.
+PHP backend with MySql Database demo application.
